@@ -1,0 +1,40 @@
+_repo: Stokers-and-pokers-b-or-The-London-and-North-Western-Railway-the-electric-telegraph-and-the-r__74809
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Head, Francis Bond, Sir
+    aliases:
+    - Head, F. B. (Francis Bond), Sir
+    - Head, Francis Bond, Sir, bart.
+    birthdate: 1793
+    deathdate: 1875
+    gutenberg_agent_id: '40112'
+    url: http://www.gutenberg.org/2009/agents/40112
+    wikipedia: https://en.wikipedia.org/wiki/Francis_Bond_Head
+description: ''
+gutenberg_issued: '2024-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74809'
+  lccn: '04027112'
+language: en
+pgterms:marc904: https://archive.org/details/stokerspokersorl00headrich
+pgterms:marc905: 20210727050357head
+pgterms:marc906: '1849'
+pgterms:marc907: GB
+production_note: Carol Brown, deaurider and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bJohn Murray, $c1849.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London and North-Western Railway'
+- !lcsh 'Telegraph -- Great Britain'
+- !lcsh 'Railway Clearing House (London, England)'
+- !lcc 'HE'
+- GITenberg
+title: 'Stokers and pokers : $b or, The London and North-Western Railway, the electric
+  telegraph, and the railway clearing-house'
+url: http://www.gutenberg.org/ebooks/74809
