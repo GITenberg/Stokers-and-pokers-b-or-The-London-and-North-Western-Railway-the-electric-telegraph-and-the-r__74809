@@ -1,5 +1,8 @@
 _repo: Stokers-and-pokers-b-or-The-London-and-North-Western-Railway-the-electric-telegraph-and-the-r__74809
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74809-h/images/cover.jpg
 creator:
   author:
     agent_name: Head, Francis Bond, Sir
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40112
     wikipedia: https://en.wikipedia.org/wiki/Francis_Bond_Head
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74809#Stokers-and-pokers-b-or-The-London-and-North-Western-Railway-the-electric-telegraph-and-the-r_
 gutenberg_issued: '2024-11-27'
 gutenberg_type: Text
 identifiers:
